@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314249489778",
+    "project_id": "loginmixue",
+    "storage_bucket": "loginmixue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314249489778:android:1dd2c3e802248ecff101eb",
+        "android_client_info": {
+          "package_name": "com.example.mixuee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxydGT5DhQjqQEIrlUp7bU2XPbWaxl17w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
